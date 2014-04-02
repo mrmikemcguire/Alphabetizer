@@ -15,7 +15,7 @@ public class Alphabetizer
 			name[i - 1] = scan.nextLine();
 			}
 		
-		java.util.Arrays.sort(name);
+		Arrays.sort(name);
 		
 		System.out.println();
 		System.out.println("The names are ");
